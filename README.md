@@ -9,7 +9,7 @@ Act as a senior repo scaffolder & DevOps lead. Create a **production-ready GitHu
 - Primary stack: ⟨Node.js@20 + TypeScript⟩ (or: Python3.12 / Go / Next.js / React / FastAPI / Express\
 - Package manager: ⟨pnpm⟩ (or npm/yarn)
 - License: ⟨MIT⟩
-- Docker: ⟨yes
+- Docker: ⟨ye
 - DB (optional): ⟨none / SQLite / Postgre
 - Testing: ⟨Vitest + Coverage⟩
 - Lint/Format: ⟨ESLint + Prettier
