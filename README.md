@@ -12,7 +12,7 @@ Act as a senior repo scaffolder & DevOps lead. Create a **production-ready GitHu
 - DB (optional): ⟨none / SQLite / Postg
 - Testing: ⟨Vitest + Coverage
 - Lint/Format: ⟨ESLint + Prettier
-- CI: ⟨GitHub Actions⟩
+- CI: ⟨GitHub Actions
 - Versioning: ⟨Conventional Commits + SemVer⟩
 - Issues/PR style: ⟨Templates + Labels
 - Docs language: ⟨EN + FA⟩
