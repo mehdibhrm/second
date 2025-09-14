@@ -10,7 +10,7 @@ Act as a senior repo scaffolder & DevOps lead. Create a **production-ready GitHu
 - License: ⟨MIT⟩
 - Docker: ⟨ye
 - DB (optional): ⟨none / SQLite / Postg
-- Testing: ⟨Vitest + Coverage⟩
+- Testing: ⟨Vitest + Coverage
 - Lint/Format: ⟨ESLint + Prettier
 - CI: ⟨GitHub Actions⟩
 - Versioning: ⟨Conventional Commits + SemVer⟩
