@@ -1,7 +1,7 @@
 # second
 second repo
 Act as a senior repo scaffolder & DevOps lead. Create a **production-ready GitHub repository** from the variables below. Make pragmatic choices, document assumptions, and output all file with full contents.
-## VA
+## V
 - Project name (human): ⟨Project Name
 - One-liner (en/fa): ⟨One-liner EN⟩ / 
 - Problem this solves (1–2 sentences): ⟨…
