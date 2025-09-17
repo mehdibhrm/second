@@ -14,7 +14,7 @@ Act as a senior repo scaffolder & DevOps lead. Create a **production-ready GitHu
 - Lint/Format: ⟨ESLint + Prettier
 - CI: ⟨GitHub Actions
 - Versioning: ⟨Conventional Commits + SemVer⟩
-- Issues/PR style: ⟨Templates + Labels
+- Issues/PR style: ⟨Templates + Label
 - Docs language: ⟨EN + FA⟩
 
 ## DELIVERABLES
