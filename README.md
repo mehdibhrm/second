@@ -6,7 +6,7 @@ Act as a senior repo scaffolder & DevOps lead. Create a **production-ready GitHu
 - One-liner (en/fa): ⟨One-liner EN⟩ /
 - Problem this solves (1–2 sentences): ⟨…
 - Primary stack: ⟨Node.js@20 + TypeScript⟩ (or: Python3.12 / Go / Next.js / React / FastAPI / Ex
-- Package manager: ⟨pnpm⟩ (or npm/yar
+- Package manager: ⟨pnpm⟩ (or npm/ya\
 - License: ⟨MIT
 - Docker: ⟨ye
 - DB (optional): ⟨none / SQLite / Postg
