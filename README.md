@@ -11,7 +11,7 @@ Act as a senior repo scaffolder & DevOps lead. Create a **production-ready GitHu
 - Docker: ⟨y
 - DB (optional): ⟨none / SQLite / Postg
 - Testing: ⟨Vitest + Coverag
-- Lint/Format: ⟨ESLint + Prett
+- Lint/Format: ⟨ESLint + Pret
 - CI: ⟨GitHub Actions
 - Versioning: ⟨Conventional Commits + SemVer⟩
 - Issues/PR style: ⟨Templates + Label
