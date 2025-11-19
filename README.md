@@ -9,7 +9,7 @@ Act as a senior repo scaffolder & DevOps lead. Create a **production-ready GitHu
 - Package manager: ⟨pnpm⟩ (or npm
 - License: ⟨MIT
 - Docker: ⟨y
-- DB (optional): ⟨none / SQLite / Postg
+- DB (optional): ⟨none / SQLite / Post
 - Testing: ⟨Vitest + Cove
 - Lint/Format: ⟨ESLint + Pre
 - CI: ⟨GitHub Action
